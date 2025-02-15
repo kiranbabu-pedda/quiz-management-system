@@ -15,7 +15,8 @@ Backend Setup (Express + TypeScript)
 
 1. Clone the Repository 
  
-git clone https://github.com/your-username/quiz-management-system.git
+git clone https://github.com/kiranbabu-pedda/quiz-management-system.git
+
 cd quiz-management-system/quizo-backend
  
 
