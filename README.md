@@ -16,7 +16,7 @@ The **Quiz Management System** is a full-stack application built with **TypeScri
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/your-username/quiz-management-system.git
+git clone https://github.com/kiranbabu-pedda/quiz-management-system.git
 cd quiz-management-system/quizo-backend
 ```
 
